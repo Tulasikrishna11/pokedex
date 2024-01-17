@@ -1,0 +1,1 @@
+pokedex is a website where all the details about different pokemon
